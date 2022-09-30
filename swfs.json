@@ -63,6 +63,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/worlds_hardest_game.swf",
+      "title": "Worlds Hardest Game",
+      "author": "Stevie Critoph",
+      "authorLink": "https://www.mobygames.com/developer/sheet/view/developerId,502095/",
+      "type": "Game"
+    },
+    {
       "location": "swfs/wasted_sky.swf",
       "title": "Wasted Sky",
       "author": "Tom Fulp",
